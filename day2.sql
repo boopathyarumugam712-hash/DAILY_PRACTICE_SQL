@@ -11,4 +11,5 @@ CREATE TABLE customer(
  
  
   SELECT * FROM customer;
+//cddddghfvdg
  
